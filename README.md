@@ -15,6 +15,8 @@ Siapkan peralatan dan bahan yang dibutuhkan, antara lain:
 5. Library EasyVR (dapat diunduh dari https://www.veear.eu/downloads/)
 
 6. Komputer
+
+## Pengkabelan
 ## Pengerjaan 
 
 1. Sambungkan modul EasyVR ke Arduino board dengan menggunakan kabel jumper. Sambungkan pin VCC modul ke pin 5V pada Arduino, pin GND modul ke pin GND pada Arduino, pin TX modul ke pin RX pada Arduino, dan pin RX modul ke pin TX pada Arduino.
