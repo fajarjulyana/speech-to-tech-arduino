@@ -21,7 +21,8 @@ Siapkan peralatan dan bahan yang dibutuhkan, antara lain:
 
 2. Pasang library EasyVR pada Arduino IDE. Caranya adalah dengan membuka Arduino IDE, kemudian pilih menu Sketch > Include Library > Add .ZIP Library. Kemudian pilih file EasyVR.zip yang sudah diunduh sebelumnya.
 
-3. Buat program Arduino menggunakan kode yang sudah dijelaskan di atas.
+3. Buat program Arduino menggunakan kode berikut <br>
+https://github.com/fajarjulyana/speech-to-tech-arduino/blob/6a8283c29c37ac366364d35c5e447b27644856ea/src/code.cpp#L1-L20
 
 4. Upload program ke Arduino board dengan menggunakan kabel USB.
 
