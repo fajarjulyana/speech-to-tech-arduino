@@ -1,2 +1,2 @@
 # speech-to-tech-arduino
-Test
+ contoh kode program untuk membuat speech to text dengan Arduino menggunakan modul EasyVR 3
